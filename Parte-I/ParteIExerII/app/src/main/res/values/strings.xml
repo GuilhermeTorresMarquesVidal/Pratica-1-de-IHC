@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Part I Exer II</string>
+    <string name="title">Atividade 2</string>
+    <string name="message">Enter a message</string>
+    <string name="send">SEND</string>
+</resources>

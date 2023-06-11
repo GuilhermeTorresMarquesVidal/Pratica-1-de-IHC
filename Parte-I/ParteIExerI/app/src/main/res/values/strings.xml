@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parte I - Exer I</string>
+    <string name="title">Atividade 1</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="sum">SUM</string>
+    <string name="result">RESULT</string>
+</resources>
