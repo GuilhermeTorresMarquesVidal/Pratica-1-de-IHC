@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Part I Exer 3</string>
+    <string name="title">Atividade 3</string>
+    <string name="message">Right position!</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+</resources>

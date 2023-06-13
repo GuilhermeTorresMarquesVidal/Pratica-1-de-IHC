@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Part II</string>
+    <string name="title">Parte 2</string>
+    <string name="light_default">Light sensor not supported!</string>
+    <string name="gyroscopic">Ângulos do Giróscopio</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Long:</string>
+</resources>
